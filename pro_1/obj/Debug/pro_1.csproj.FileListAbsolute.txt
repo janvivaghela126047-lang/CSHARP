@@ -1,0 +1,7 @@
+D:\MU4\C#\UNIT2\pro_1\bin\Debug\pro_1.exe.config
+D:\MU4\C#\UNIT2\pro_1\bin\Debug\pro_1.exe
+D:\MU4\C#\UNIT2\pro_1\bin\Debug\pro_1.pdb
+D:\MU4\C#\UNIT2\pro_1\obj\Debug\pro_1.csproj.AssemblyReference.cache
+D:\MU4\C#\UNIT2\pro_1\obj\Debug\pro_1.csproj.CoreCompileInputs.cache
+D:\MU4\C#\UNIT2\pro_1\obj\Debug\pro_1.exe
+D:\MU4\C#\UNIT2\pro_1\obj\Debug\pro_1.pdb
