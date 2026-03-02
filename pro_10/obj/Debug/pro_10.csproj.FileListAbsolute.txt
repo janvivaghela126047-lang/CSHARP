@@ -1,0 +1,7 @@
+D:\MU4\C#\UNIT2\pro_10\bin\Debug\pro_10.exe.config
+D:\MU4\C#\UNIT2\pro_10\bin\Debug\pro_10.exe
+D:\MU4\C#\UNIT2\pro_10\bin\Debug\pro_10.pdb
+D:\MU4\C#\UNIT2\pro_10\obj\Debug\pro_10.csproj.AssemblyReference.cache
+D:\MU4\C#\UNIT2\pro_10\obj\Debug\pro_10.csproj.CoreCompileInputs.cache
+D:\MU4\C#\UNIT2\pro_10\obj\Debug\pro_10.exe
+D:\MU4\C#\UNIT2\pro_10\obj\Debug\pro_10.pdb
