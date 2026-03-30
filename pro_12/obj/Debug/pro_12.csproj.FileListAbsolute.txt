@@ -1,0 +1,7 @@
+D:\MU4\C#\UNIT2\pro_12\bin\Debug\pro_12.exe.config
+D:\MU4\C#\UNIT2\pro_12\bin\Debug\pro_12.exe
+D:\MU4\C#\UNIT2\pro_12\bin\Debug\pro_12.pdb
+D:\MU4\C#\UNIT2\pro_12\obj\Debug\pro_12.csproj.AssemblyReference.cache
+D:\MU4\C#\UNIT2\pro_12\obj\Debug\pro_12.csproj.CoreCompileInputs.cache
+D:\MU4\C#\UNIT2\pro_12\obj\Debug\pro_12.exe
+D:\MU4\C#\UNIT2\pro_12\obj\Debug\pro_12.pdb
