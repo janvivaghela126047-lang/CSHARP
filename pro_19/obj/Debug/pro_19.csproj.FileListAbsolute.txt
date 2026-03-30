@@ -1,0 +1,7 @@
+D:\MU4\C#\UNIT2\pro_19\bin\Debug\pro_19.exe.config
+D:\MU4\C#\UNIT2\pro_19\bin\Debug\pro_19.exe
+D:\MU4\C#\UNIT2\pro_19\bin\Debug\pro_19.pdb
+D:\MU4\C#\UNIT2\pro_19\obj\Debug\pro_19.csproj.AssemblyReference.cache
+D:\MU4\C#\UNIT2\pro_19\obj\Debug\pro_19.csproj.CoreCompileInputs.cache
+D:\MU4\C#\UNIT2\pro_19\obj\Debug\pro_19.exe
+D:\MU4\C#\UNIT2\pro_19\obj\Debug\pro_19.pdb
