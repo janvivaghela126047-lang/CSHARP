@@ -1,0 +1,7 @@
+D:\MU4\UNIT4\pro_20.1\bin\Debug\pro_20.1.exe.config
+D:\MU4\UNIT4\pro_20.1\bin\Debug\pro_20.1.exe
+D:\MU4\UNIT4\pro_20.1\bin\Debug\pro_20.1.pdb
+D:\MU4\UNIT4\pro_20.1\obj\Debug\pro_20.1.csproj.AssemblyReference.cache
+D:\MU4\UNIT4\pro_20.1\obj\Debug\pro_20.1.csproj.CoreCompileInputs.cache
+D:\MU4\UNIT4\pro_20.1\obj\Debug\pro_20.1.exe
+D:\MU4\UNIT4\pro_20.1\obj\Debug\pro_20.1.pdb
